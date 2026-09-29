@@ -1,10 +1,5 @@
-================================================================================
 PROJECT      : Advanced Analytics for Smart Grid Revenue Protection
-ORGANIZATION : Larsen & Toubro (L&T) Construction
 AUTHOR       : Pranjal
-MENTOR/GUIDE : Mr. Omkar Verma
-DATE         : June 2026
-================================================================================
 
 1. PROJECT OVERVIEW
 -------------------
@@ -70,8 +65,3 @@ Step 2: The Executive Storyboard (Frontend)
 Once the pipeline successfully executes, open `/notebooks/analysis.ipynb`.
 Run the cells sequentially to load the enriched data, calculate total INR (Rupee) 
 fiscal leakage, and render the high-resolution 300-DPI Substation Forecasting plots.
-
-================================================================================
-Confidentiality Note: This codebase contains proprietary diagnostic logic developed 
-under L&T Construction guidelines.
-================================================================================
